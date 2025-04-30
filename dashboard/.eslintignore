@@ -1,0 +1,7 @@
+# .eslintignore
+
+
+app/(dashboard)/add-product/_components/add-product-form.tsx
+app/(dashboard)/product-list/_components/product-list.tsx
+app/(dashboard)/product-list/_components/update-product-form.tsx
+app/(dashboard)/subcategories/_components/subcategories.tsx
